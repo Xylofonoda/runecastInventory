@@ -1,4 +1,4 @@
-# Runecast Inventory
+# Inventory
 
 ## Project setup
 ```
